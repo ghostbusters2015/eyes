@@ -12,6 +12,4 @@ ghost-collector
 
 + [P0185]로드셀(스트레인게이지) 24Bit A/D 신호변환모듈 1개 http://www.eleparts.co.kr/EPX3CFDMbrand
 
-2. 구글앱스크립트와 구글 달력을 통해 알아보는 회의왕
-
-3. 구글앱스크립트와 구글 메일을 통해 알아보는 고객불만
+2. 아이디어 협업 - https://beecanvas.com/G4j34E25
