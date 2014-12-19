@@ -1,5 +1,6 @@
 ghost-collector
 ===============
+아이디어 협업 - https://beecanvas.com/G4j34E25
 
 유령 데이타를 찾고 포집
 
@@ -11,5 +12,3 @@ ghost-collector
 + [P0236]저가형 3선식 로드셀(50Kg) 2개http://www.eleparts.co.kr/EPX3CFDNbrand
 
 + [P0185]로드셀(스트레인게이지) 24Bit A/D 신호변환모듈 1개 http://www.eleparts.co.kr/EPX3CFDMbrand
-
-2. 아이디어 협업 - https://beecanvas.com/G4j34E25
