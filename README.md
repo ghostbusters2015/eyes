@@ -12,3 +12,5 @@ ghost-collector
 + [P0236]저가형 3선식 로드셀(50Kg) 2개http://www.eleparts.co.kr/EPX3CFDNbrand
 
 + [P0185]로드셀(스트레인게이지) 24Bit A/D 신호변환모듈 1개 http://www.eleparts.co.kr/EPX3CFDMbrand
+
+![회로도](http://i.stack.imgur.com/SAsAx.png)
